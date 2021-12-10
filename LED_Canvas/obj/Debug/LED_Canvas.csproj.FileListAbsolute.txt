@@ -1,0 +1,19 @@
+e:\documents\visual studio 2012\Projects\LED_Canvas\LED_Canvas\bin\Debug\LED_Canvas.exe
+e:\documents\visual studio 2012\Projects\LED_Canvas\LED_Canvas\bin\Debug\LED_Canvas.pdb
+e:\documents\visual studio 2012\Projects\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2012\Projects\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.Form1.resources
+e:\documents\visual studio 2012\Projects\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.Properties.Resources.resources
+e:\documents\visual studio 2012\Projects\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.csproj.GenerateResource.Cache
+e:\documents\visual studio 2012\Projects\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.exe
+e:\documents\visual studio 2012\Projects\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.pdb
+e:\documents\visual studio 2012\Projects\LED_Canvas\LED_Canvas\bin\Debug\CsImage.dll
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\bin\Debug\LED_Canvas.exe
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\bin\Debug\LED_Canvas.pdb
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\bin\Debug\CsImage.dll
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.Form1.resources
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.Properties.Resources.resources
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.csproj.GenerateResource.cache
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.csproj.CoreCompileInputs.cache
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.csproj.CopyComplete
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.exe
+E:\wvv\Desktop\LED_Canvas\LED_Canvas\obj\Debug\LED_Canvas.pdb
